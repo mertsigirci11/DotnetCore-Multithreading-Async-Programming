@@ -1,0 +1,14 @@
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\bin\Debug\net8.0\Lesson2.exe
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\bin\Debug\net8.0\Lesson2.deps.json
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\bin\Debug\net8.0\Lesson2.runtimeconfig.json
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\bin\Debug\net8.0\Lesson2.dll
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\bin\Debug\net8.0\Lesson2.pdb
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfo.cs
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.dll
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\refint\Lesson2.dll
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.pdb
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\Lesson2.genruntimeconfig.cache
+C:\Users\Mert\Documents\GitHub\Async.Multithreading.Notes\Lesson2\obj\Debug\net8.0\ref\Lesson2.dll
